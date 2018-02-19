@@ -1,0 +1,26 @@
+.marker {
+  font-family: 'Permanent Marker';
+}
+
+.highlight {
+  color: #e50000;
+}
+
+footer {
+  padding-top: 5px;
+  color: #ffffff;
+  background-color: #191b1d;
+  text-align: center;
+  border-top: #a80505 1px solid;
+  border-bottom: #a80505 1px solid;
+}
+
+#footer {
+   position:absolute;
+   bottom:0;
+   width:100%;
+   height:40px;
+   position: fixed;
+   margin-top: 40px;
+   font-family: Reem Kufi, sans-serif;
+}
